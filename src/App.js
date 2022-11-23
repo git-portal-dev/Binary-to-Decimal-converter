@@ -67,9 +67,9 @@ function App() {
         <h1 className='text-lg font-bold'>Binary To Decimal Converter</h1>
       </nav>
       <div className='container mx-auto '>
-        <div className='md:w-2/4 mt-5 mx-auto px-2'>
+        <div className='sm:w-3/4 mt-5 mx-auto px-2'>
           <p className='font-bold text-xl text-center'>Binary To Decimal</p>
-          <div className='mt-5 grid md:grid-cols-2 '>
+          <div className='mt-5 grid sm:grid-cols-2 '>
             <label>Binary Number (eg: 1101) </label>
             <FormField validation={validation} feild="binary">
               <input
@@ -84,7 +84,7 @@ function App() {
         </div>
       </div>
       <footer className='w-full p-4 bg-slate-100 text-center fixed bottom-0'>
-        <a className='text-cyan-900' href='https://gitportal.dev'>Created By ❤️ Git Portal</a>
+        <p className='text-cyan-900'>Created By ❤️ Git Portal</p>
       </footer>
     </>
   );
