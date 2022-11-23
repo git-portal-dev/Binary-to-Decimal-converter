@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Binary-to-Decimal-converter/static/css/main.2d3d335a.css",
+    "main.js": "/Binary-to-Decimal-converter/static/js/main.2c4cc37e.js",
+    "static/js/787.779901d0.chunk.js": "/Binary-to-Decimal-converter/static/js/787.779901d0.chunk.js",
+    "index.html": "/Binary-to-Decimal-converter/index.html",
+    "main.2d3d335a.css.map": "/Binary-to-Decimal-converter/static/css/main.2d3d335a.css.map",
+    "main.2c4cc37e.js.map": "/Binary-to-Decimal-converter/static/js/main.2c4cc37e.js.map",
+    "787.779901d0.chunk.js.map": "/Binary-to-Decimal-converter/static/js/787.779901d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d3d335a.css",
+    "static/js/main.2c4cc37e.js"
+  ]
+}
